@@ -136,9 +136,9 @@ I can help you turn your idea into a **functional, modern, and production-ready 
 
 **GitHub:** [SyedSaifHossain](https://github.com/SyedSaifHossain)
 
-**Email:** `your-email@example.com`
+**Email:** `syedsaifnibir@gmail.com`
 
-**LinkedIn:** `your-linkedin-profile`
+**LinkedIn:** `https://www.linkedin.com/in/syed-saif-hossain`
 
 ---
 
