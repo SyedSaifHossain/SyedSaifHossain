@@ -136,9 +136,10 @@ Navigation Component
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=SyedSaifHossain&show_icons=true&theme=catppuccin_mocha&border_radius=10&count_private=true" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SyedSaifHossain&layout=donut&theme=catppuccin_mocha&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SyedSaifHossain&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SyedSaifHossain&layout=donut&theme=cyberpunk&hide_border=true" height="180"/>
 </p>
+
 ---
 
 # 🔥 GitHub Streak
