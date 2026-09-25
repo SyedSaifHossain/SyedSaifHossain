@@ -284,6 +284,21 @@ An Android application that accepts **height and weight** from the user and disp
 
 # 💼 Professional Experience
 
+## 📱 Mobile App Developer — ADN Diginet Ltd. Augmented Resource UPAY(UCB Fintech Company Ltd.)
+
+**September 2026 – Present**
+
+* Joined ADN Diginet Ltd. as a Mobile App Developer
+* Augmented to Upay (UCB Fintech Company Ltd.) as a Mobile App Developer
+* Working on mobile application development and maintenance
+* Developing and maintaining Android applications using Kotlin
+* Implementing and enhancing mobile application features
+* Working with modern Android development practices and frameworks
+* Debugging issues and improving application performance
+* Collaborating with development teams using Git-based workflows
+
+---
+
 ## 📱 Junior App Developer — Goat Giveaways
 
 **March 2025 – April 2026**
@@ -323,7 +338,7 @@ An Android application that accepts **height and weight** from the user and disp
 
 **2019 – 2023**
 
-**CGPA: 3.30**
+**CGPA: 3.18**
 
 ---
 
